@@ -1,0 +1,44 @@
+---
+title: "Kadija Mussa"
+image: "kadija-profile-pic.jpeg"
+links:
+
+  - label: GitHub
+    url: "https://github.com/Kadija612"
+  - label: Email
+    url: "mailto:mussa007@umn.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kadija Mussa is a Ph.D student at the University of Minnesota. Her research focuses on how Imams experience divorce decision-making in the Muslim community of Minnesota as well as the impact of help seeking behavior on marital quality of African American couples. 
+
+## Education
+
+**University of Minnesota**     | Twin-cities, MN
+
+Ph.D. in Couple & Family Therapy Specialization | September 2021 - Present
+
+**St. Cloud State University**  | St. Could, MN
+
+M.S. in Marriage and Family Therapy | 2019
+
+**University of Minnesota**     | Minneapolis, MN
+
+B.A. in Psychology | 2012
+
+B.A. in Biology, Society and Environment | 2012
+
+
+
+## Experience
+
+**Clinical Extern/ Ph.D. student**    | September 2021 - Present
+
+**Chemical Dependency Case Manager**  | March 2020 - Present
+
+**Mental Health Practitioner**        | June 2018 - February 2019
+
+**Mental Health Practicum**           |  May 2017 - June 2018
